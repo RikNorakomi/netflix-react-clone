@@ -1,3 +1,7 @@
+## Netflix clone with react
+
+Live version hosted via Firebase hosting at: https://netflix-clone-5966a.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
