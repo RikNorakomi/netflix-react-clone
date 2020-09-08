@@ -1,6 +1,19 @@
 ## Netflix clone with react
 
-Live version hosted via Firebase hosting at: https://netflix-clone-5966a.web.app/
+Live version hosted via Firebase hosting at: https://raect-netflix-clone.web.app
+
+CleverProgrammers app at: https://netflix-clone-5966a.web.app/
+
+Packages used:
+
+- npm i react-youtube
+- npm i movie-trailer
+
+### deploy
+
+- firebase init > select hosting and as your folder write build (!important) and say yes to single page app
+- npm run build
+- firebase deploy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

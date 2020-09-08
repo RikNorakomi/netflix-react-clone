@@ -6,14 +6,14 @@
   padding: 20px;
   height: 30px;
   z-index: 1;
-}
-
-.nav__black {
-  background-color: #111;
 
   /* Animation */
   transition-timing-function: ease-in;
   transition: all 0.5s;
+}
+
+.nav__black {
+  background-color: #111;
 }
 
 .nav__logo {
